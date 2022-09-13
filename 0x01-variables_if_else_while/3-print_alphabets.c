@@ -8,31 +8,31 @@
 
 int main(void)
 {
-    int lw = 'a';
+	int lw = 'a';
 
-    int up = 'A';
+	int up = 'A';
 
-    while (lw <= 'z')
+	while (lw <= 'z')
 
-    {
+	{
 
-	    putchar(lw);
+		putchar(lw);
 
-	    lw += 1;
+		lw += 1;
 
-    }
+	}
 
-    while (up <= 'Z')
+	while (up <= 'Z')
 
-    {
+	{
 
-	    putchar(up);
+		putchar(up);
 
-	    up += 1;
+		up += 1;
 
-    }
+	}
 
-    putchar('\n');
+	putchar('\n');
 
-    return (0);
+	return (0);
 }
