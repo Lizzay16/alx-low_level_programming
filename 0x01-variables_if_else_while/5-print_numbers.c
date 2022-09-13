@@ -9,19 +9,19 @@
 int main(void)
 {
 
-    int n;
+	int n;
 
-    while (n < 10)
+	while (n < 10)
 
-    {
+	{
 
-	    printf("%d", n);
+		printf("%d", n);
 
-	    n += 1;
+		n += 1;
 
-    }
+	}
 
-    printf("\n");
+	printf("\n");
 
-    return (0);
+	return (0);
 }
