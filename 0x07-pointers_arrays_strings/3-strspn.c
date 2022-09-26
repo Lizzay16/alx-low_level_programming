@@ -1,4 +1,4 @@
-#include "main.h"
+#include "mai.h"
 
 /**
   * _strspn - search a string for a set of bytes
